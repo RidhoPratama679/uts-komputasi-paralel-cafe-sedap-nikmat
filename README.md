@@ -235,4 +235,8 @@ Buat repositori GitHub dengan status **Public**, lalu unggah seluruh folder proy
 5. `test: tambah skenario Locust dan dokumentasi benchmark`
 6. `docs: lengkapi laporan dan panduan penggunaan`
 
+## 13. Video Presentasi UTS
+
+[Tonton Video Presentasi Cafe Sedap Nikmat](https://youtu.be/pTTTbVW24bM)
+
 Jangan membuat commit palsu atau mengubah tanggal commit. Simpan tautan repositori dan tautan video pada catatan pengumpulan.
